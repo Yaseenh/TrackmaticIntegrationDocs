@@ -13,3 +13,5 @@
 ### [Another MD file](test2/test.md)
 
 ## ![Adding pic](test2/adhocandmultipleaddressflow2.png)
+
+{% include test.md %}
