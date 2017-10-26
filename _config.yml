@@ -3,3 +3,15 @@
 includes_dir     : ./_includes
 encoding: UTF-8
 theme: jekyll-theme-slate
+
+docs_list_title: Integrations Documentation
+docs:
+
+- title: Introduction
+  url: introduction.html
+
+- title: Configuration
+  url: configuration.html
+
+- title: Deployment
+  url: deployment.html
