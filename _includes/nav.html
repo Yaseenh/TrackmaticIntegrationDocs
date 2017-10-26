@@ -1,6 +1,35 @@
-<h2>{{ site.data.samplelist.docs_list_title }}</h2>
-<ul>
-   {% for item in site.data.samplelist.docs %}
-      <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
-   {% endfor %}
-</ul>
+<div class="nav-docs">
+  <!-- Docs Nav -->
+  {% for section in site.data.nav %}
+    <div class="nav-docs-section">
+      <h3><a href="{{section.url | prepend: site.github.url}}">{{ section.title }}</a></h3>
+      <ul>
+        {% for item in section.items %}
+          <li>
+            <a href="{{item.url | prepend: site.github.url}}">{{ item.title }}</a>
+            {% if item.subitems %}
+              <ul>
+                {% for subitem in item.subitems %}
+                  <li>
+                    <a href="{{subitem.url | prepend: site.github.url}}">{{ subitem.title }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+	{% endfor %}
+
+	<div class="nav-docs-section">
+		<h3><a href="#">Blog</a></h3>
+		{% for post in site.posts %}
+		<div class="nav-post">
+			<b><a href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a></b>
+			<small>{{ post.excerpt }}</small>
+			<br />
+		</div>
+		{% endfor %}
+	</div>
+</div>
