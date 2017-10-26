@@ -12,4 +12,4 @@
 
 ### [Another MD file](test2/test.md)
 
-## [Another adding pic](test2/adhocandmultipleaddressflow2.png)
+## ![Adding pic](test2/adhocandmultipleaddressflow2.png)
