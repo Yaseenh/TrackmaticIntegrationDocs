@@ -1,1 +1,13 @@
-[a relative link](index2.md)
+{% include index2.md %}
+
+	<main>
+
+    	<h1>{{ page.title }}</h1>
+
+    	{{ content }}
+
+    	<p>Recipe by <a href="{{ page.recipe-attribution-link }}">{{ page.recipe-attribution }}</a>.</p>
+
+	</main>
+
+	{% include nav.md %}
