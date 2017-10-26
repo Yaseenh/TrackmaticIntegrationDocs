@@ -1,3 +1,18 @@
-theme: jekyll-theme-slate
-markdown: kramdown
-title: Trackmatic Technical Guide
+# _config.yml
+#layouts_dir     : ./_sharedTemplates/_layouts
+includes_dir     : ./_includes
+encoding: UTF-8
+theme: jekyll-theme-minimal
+title: Trackmatic Technical Integration Guide
+
+docs_list_title: Integrations Documentation
+docs:
+
+- title: Introduction
+  url: test2/introduction.md
+
+- title: Configuration
+  url: test2/configuration.md
+
+- title: Deployment
+  url: test2/deployment.md
