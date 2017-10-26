@@ -12,4 +12,6 @@
 
 ### [Another MD file](test2/test.md)
 
-{% include adhocandmultipleaddressflow2.png %}
+![alt text](test2/adhocandmultipleaddressflow2.png)
+
+<!---{% include adhocandmultipleaddressflow2.png %}---> 
