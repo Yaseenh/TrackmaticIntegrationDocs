@@ -12,6 +12,6 @@
 
 ### [Another MD file](test2/test.md)
 
-![alt text](test2/adhocandmultipleaddressflow2.png)
+![alt text](https://www.autodealer.co.za/Pictures-of-Audi-S3-Sportback-S-Tronic-Photos-2012-S3-Sportback-S-Tronic-Audi-Images-983575-photo-1.html)
 
 <!---{% include adhocandmultipleaddressflow2.png %}---> 
