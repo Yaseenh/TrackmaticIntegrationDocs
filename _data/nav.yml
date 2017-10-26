@@ -1,23 +1,12 @@
-- title: Home
-  url: /
-- title: REST Api
-  url: /Test2
-  items:
-    - id: authentication
-      title: Authentication
-      url: /Test2
-    - id: organisations
-      title: Organisations
-      url: /Test2
-    - id: fleet
-      title: Fleet
-      url: /Test2
-    - id: tracking
-      title: Tracking
-      url: /Test2
-    - id: tracking-generic
-      title: Tracking (Generic)
-      url: /Test2
-    - id: loads
-      title: Loads
-      url: /Test2
+- title: "Home"
+  href: "/"
+
+- title: "News"
+  href: "/news/"
+
+- title: "Snippets"
+  subcategories:
+    - subtitle: "Example1"
+      subhref: "#"
+    - subtitle: "Example2"
+      subhref: "#"
