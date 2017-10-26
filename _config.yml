@@ -1,4 +1,5 @@
 # _config.yml
 #layouts_dir     : ./_sharedTemplates/_layouts
 includes_dir     : ./_includes
+encoding: UTF-8
 theme: jekyll-theme-slate
