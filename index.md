@@ -12,3 +12,4 @@
 
 ### [Another MD file](test2/test.md)
 
+{% include adhocandmultipleaddressflow.jpg %}
