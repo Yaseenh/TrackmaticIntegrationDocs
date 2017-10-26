@@ -11,3 +11,5 @@
 -It defines what should be implemented therefore it may be part of a contract between a client or contractor.  
 
 ### [Another MD file](test2/test.md)
+
+## [Another adding pic](test2/adhocandmultipleaddressflow2.png)
