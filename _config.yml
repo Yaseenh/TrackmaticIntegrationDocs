@@ -8,10 +8,10 @@ docs_list_title: Integrations Documentation
 docs:
 
 - title: Introduction
-  url: introduction.html
+  url: test2/introduction.md
 
 - title: Configuration
-  url: configuration.html
+  url: test2/configuration.md
 
 - title: Deployment
-  url: deployment.html
+  url: test2/deployment.md
