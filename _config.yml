@@ -3,6 +3,7 @@
 includes_dir     : ./_includes
 encoding: UTF-8
 theme: jekyll-theme-slate
+title: Trackmatic Technical Integration Guide
 
 docs_list_title: Integrations Documentation
 docs:
