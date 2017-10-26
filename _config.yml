@@ -1,4 +1,4 @@
 # _config.yml
 #layouts_dir     : ./_sharedTemplates/_layouts
-includes_dir     : ./_includes/README.md
+includes_dir     : ./_includes
 theme: jekyll-theme-slate
