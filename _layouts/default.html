@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+
+  <body>
+
+    {% include header.html %}
+
+    <main class="page-content" aria-label="Content">
+        <nav>
+            <h1><img style="margin-left: -18px;" alt="{{ site.title | default: site.github.repository_name }}" src="{{ '/assets/images/logo.svg' | relative_url}}" /></h1>
+            <p>Technical Guide</p>
+            {% include nav.html %}
+          </nav>
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+  </html>
+  
