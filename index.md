@@ -12,4 +12,3 @@
 
 ### [Read Me](rest/organisations)
 
-{% include README.md %}
