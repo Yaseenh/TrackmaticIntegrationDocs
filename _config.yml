@@ -1,4 +1,6 @@
 # _config.yml
 #layouts_dir     : ./_sharedTemplates/_layouts
+safe: true
+lsi: false
 includes_dir     : ./_includes
 theme: jekyll-theme-slate
