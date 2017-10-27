@@ -1,21 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @Yaseenh
- Sign out
- Watch 45
-  Star 829  Fork 2,230 daattali/beautiful-jekyll
- Code  Issues 8  Pull requests 1  Projects 0  Wiki  Insights
-Branch: master Find file Copy pathbeautiful-jekyll/_config.yml
-f4d7021  11 days ago
-@OCram85 OCram85 Update gh-pages to version 163 (#264)
-16 contributors @daattali @eugenius1 @lrdodge @jamesonzimmer @epwalsh @OCram85 @kendaleiv @vietanhdev @tony-ho @XNerv @TheRealBenForce @rtlee9 @kootenpv @hristoyankov @csarigoz @bbritten
-RawBlameHistory     
-230 lines (197 sloc)  5.93 KB
 # --- General options --- #
 
 # url is the full website URL
