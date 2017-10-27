@@ -5,8 +5,14 @@ encoding: UTF-8
 theme: jekyll-theme-slate
 title: Trackmatic Technical Integration Guide
 
-  docs:
-  - about.md
-  - contact-us.md
-  - a-random-page.md
-  - another-random-page.md
+docs_list_title: Integrations Documentation
+docs:
+
+- title: Introduction
+  url: test2/introduction.md
+
+- title: Configuration
+  url: test2/configuration.md
+
+- title: Deployment
+  url: test2/deployment.md
