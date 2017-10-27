@@ -25,6 +25,13 @@ navbar-links:
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://deanattali.com"
 
+navbar-col: "orange"
+navbar-img: "/img/bgimage.png"
+footer-col: "blue"
+footer-img: "/img/bgimage.png"
+page-col: "#FF0000"
+page-img: "/img/bgimage.png"
+
   author:
   name: Some Person
   email: "youremail@domain.com"
