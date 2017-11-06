@@ -27,7 +27,7 @@ __ROUTE__
 A basic example of a route in trackmatic is the travel path in which a delivery is to be made.
 
 |   | Field Name           | Mandatory  |  Description                                                                    |                                                                 
-| :-----------------------:|:----------:| :------------:| :--------------------------------------------------------------:|
+| :------------------------|------------| :------------:| :--------------------------------------------------------------:|
 | 1 | Reference            | Yes        | A unique reference number for the route                                         |
 | 2 | Planned Start        | Yes        | Planned start date and time                                                     |
 | 3 | Registration         | No         | Registration number of the vehicle being assigned to the route                  |
@@ -52,7 +52,7 @@ __ACTION__
 A basic example of an action in trackmatic is an invoice along with its details for who the customer is for.
 
 |    | Field Name          | Mandatory  |  Description                                                                    |                                                                 
-| :-----------------------:|:----------:| :------------:| :--------------------------------------------------------------:|
+| :------------------------|------------| :------------:| :--------------------------------------------------------------:|
 | 1  | IsCod               | Yes        | Cash On Delivery Indicator                                                      |
 | 2  | Reference           | Yes        | Unique reference number associated with the action                              |
 | 3  | Volumetric Mass     | No         | The volume of the parcel                                                        |
@@ -75,7 +75,7 @@ __ENTITY__
 A basic example of an entity in trackmatic is the individual stores/customers details within an area(Edgars in Mall Of Africa).
 
 |    | Field Name          | Mandatory  |  Description                                                                    |                                                                 
-| :-----------------------:|:----------:| :------------:| :--------------------------------------------------------------:|
+| :------------------------|------------| :------------:| :--------------------------------------------------------------:|
 | 1  | IsCod               | Yes        | Cash On Delivery Indicator                                                      |
 | 2  | Reference           | Yes        | Unique reference number associated with the action                              |
 | 3  | Volumetric Mass     | No         | The volume of the parcel                                                        |
@@ -98,7 +98,7 @@ __LOCATION__
 A basic example of a LOCATION in trackmatic is the area/location of the entities (Mall Of Africa has entities like Edgars, Woolworths etc.).
 
 |    | Field Name          | Mandatory  |  Description                                                                    |                                                                 
-| :-----------------------:|:----------:| :------------:| :--------------------------------------------------------------:|
+| :------------------------|------------| :------------:| :--------------------------------------------------------------:|
 | 1  | IsCod               | Yes        | Cash On Delivery Indicator                                                      |
 | 2  | Reference           | Yes        | Unique reference number associated with the action                              |
 | 3  | Volumetric Mass     | No         | The volume of the parcel                                                        |
@@ -121,7 +121,7 @@ __HANDLING UNITS__
 A basic example of a handling unit in trackmatic is the individual items/materials/goods that are been delivered.
 
 |    | Field Name          | Mandatory  |  Description                                                                    |                                                                 
-| :-----------------------:|:----------:| :------------:| :--------------------------------------------------------------:|
+| :------------------------|------------| :------------:| :--------------------------------------------------------------:|
 | 1  | IsCod               | Yes        | Cash On Delivery Indicator                                                      |
 | 2  | Reference           | Yes        | Unique reference number associated with the action                              |
 | 3  | Volumetric Mass     | No         | The volume of the parcel                                                        |
