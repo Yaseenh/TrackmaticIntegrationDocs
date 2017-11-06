@@ -133,7 +133,7 @@ A basic example of a handling unit in trackmatic is the individual items/materia
 | 7  | Description         | No         | Description of handling unit                                                    |
 | 8  | Volume              | No         | Volume of the parcel                                                            |
 | 9  | Volumetric Mass     | No         | Volumetric mass of the parcel                                                   |
-|Dimensions                                                                                                               |
+|DIMENSIONS                                                                                                               |
 | 10 | Height              | No         | Height of handling unit                                                         |
 | 11 | Width               | No         | Width of handling unit                                                          |
 | 12 |Length               | No         | Length of handling unit                                                         |
