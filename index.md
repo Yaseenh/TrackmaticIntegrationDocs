@@ -1,10 +1,14 @@
+## ![Adding pic](Images/headerImage.png)
 # Welcome
 
-Welcome to the Trackmatic technical guide. This guide will take you through various business and technical concepts which you will need to successfully integrate to the Trackmatic backend systems.
+Welcome to the Trackmatic integration guide. This guide will take you through various business cases and technical concepts which you will need to successfully integrate with Trackmatic.
 
-## Modules
+## What we do
 
-The Trackmatic ecosystem is divided into a number of modules. Each module provides functionality for a specific use case of the Trackmatic system. The remainder of this section will provide a high level over of each module.
+In short, Trackmatic provides unique tailor-made software solutions to fleet operators and fleet management of On-Road Execution™ regardless of the fleet size. 
+We offer a holistic business solution to our clients, meeting their unique and complex requirements. We work together with them to provide insight into the finer workings of their operations, thereby increasing efficiencies and enabling greater levels of satisfaction among their customers.
+Resource optimisation and service excellence are key outcomes of the solution, resulting in higher profits and driving down costs. This is where the true value of the solution is gained.
+
 
 ### [Organisations](rest/organisations)
 
