@@ -4,4 +4,6 @@
 
 # <span style="color:grey">Part 1</span>
 
+## ![Adding pic](../../Images/pollingListener.png)
+
 ## <span style="color:grey">Briefing</span>
