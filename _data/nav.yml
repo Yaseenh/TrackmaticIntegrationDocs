@@ -1,11 +1,54 @@
-docs_list_title: ACME Documentation
-docs:
-
-- title: Introduction
-  url: introduction.html
-
-- title: Configuration
-  url: configuration.html
-
-- title: Deployment
-  url: deployment.html
+- title: Home
+  url: /
+- title: REST Api
+  url: /rest
+  items:
+    - id: authentication
+      title: Authentication
+      url: /rest
+    - id: organisations
+      title: Organisations
+      url: /rest/organisations
+    - id: fleet
+      title: Fleet
+      url: /rest/fleet
+    - id: tracking
+      title: Tracking
+      url: /rest/tracking
+    - id: tracking-generic
+      title: Tracking (Generic)
+      url: /rest/tracking-generic
+    - id: loads
+      title: Loads
+      url: /rest/loads
+      subitems:
+        - id: loads-shippers
+          title: Shippers
+          url: /rest/loads/shippers
+        - id: loads-drivers
+          title: Drivers
+          url: /rest/loads/drivers
+        - id: loads-integration
+          title: Integration
+          url: /rest/loads/integration
+    - id: blob-storage
+      title: Blob Storage
+      url: /rest/blob-storage
+    - id: web-hooks
+      title: Webhooks
+      url: /rest/webhooks
+    - id: devices
+      title: Devices
+      url: /rest/devices
+    - id: pbx
+      title: Pbx
+      url: /rest/pbx
+- title: Webhooks
+  url: /webhooks
+  items:
+    - id: loads
+      title: Loads
+      url: /webhooks/loads
+    - id: fleet
+      title: Fleet
+      url: /webhooks/fleet
