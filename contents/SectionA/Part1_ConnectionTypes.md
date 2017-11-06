@@ -29,7 +29,7 @@ __Email Listener__
 
 The client emails an excel extract (CSV) containing all the relevant data to use Trackmatic’ s services to an email address provided by Trackmatic. The integration agent which is running on Trackmatic’ s server will then pick up this email. If an extract is picked up within the email, it will then be read in and uploaded into Trackmatic.
 
-## ![Adding pic](../../Images/emailListener.png)
+## ![Adding pic](../../Images/emailListener2.jpg)
 
 __Flat file Listener__
 
