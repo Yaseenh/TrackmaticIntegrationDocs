@@ -14,6 +14,10 @@ Resource optimisation and service excellence are key outcomes of the solution, r
 
 ### [How To Use This Guide](contents/HowToUseThisGuide.md)
 
+### [SECTION A: Part 1](contents/SectionA/Part1_ConnectionTypes.md)
+
+### [SECTION B: Part 1](contents/SectionB/Part1_CreatingYourOwnAgent.md)
+
 
 ### [Fleet](rest/fleet)
 
