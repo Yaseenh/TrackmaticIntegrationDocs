@@ -3,7 +3,7 @@
 
 Welcome to the Trackmatic integration guide. This guide will take you through various business cases and technical concepts which you will need to successfully integrate with Trackmatic.
 
-## What we do
+## <span style="color:grey">What We Do</span>
 
 In short, Trackmatic provides unique tailor-made software solutions to fleet operators and fleet management of On-Road Execution™ regardless of the fleet size. 
   
