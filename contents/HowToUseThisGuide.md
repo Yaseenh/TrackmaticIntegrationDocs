@@ -14,4 +14,4 @@ Integration with trackmatic where trackmatic creates the integration using a CSV
 ## <span style="color:grey"> Our graphical process used to integrate:</span>
 Follow a path and make reference to each section, part and label to complete the integration process.
 
-## ![Adding pic](Images/integrationflowv2.png)
+## ![Adding pic](Images/integrationflow.png)
