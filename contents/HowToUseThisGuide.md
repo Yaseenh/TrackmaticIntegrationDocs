@@ -1,4 +1,4 @@
-# <span style="color:grey"> How To Use This Guide</span>
+# <span style="color:grey">How To Use This Guide</span>
 
 The graphical process shown below depicts the various sections and parts of the document which relate to the way in which you can integrate with trackmatic.
 
@@ -14,4 +14,4 @@ Integration with trackmatic where trackmatic creates the integration using a CSV
 ## <span style="color:grey"> Our graphical process used to integrate:</span>
 Follow a path and make reference to each section, part and label to complete the integration process.
 
-## ![Adding pic](..\Images\integrationflow.png)
+## ![Adding pic](../Images/integrationflow.png)
