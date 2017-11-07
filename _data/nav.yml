@@ -6,8 +6,8 @@
     - id: authentication
       title: Authentication
       url: /rest
-    - id: howto
-      title: How to
+    - id: part1
+      title: Part 1
       url: /contents/SectionA/Part1_ConnectionTypes
     - id: organisations
       title: Organisations
