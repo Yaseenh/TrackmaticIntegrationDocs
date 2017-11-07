@@ -11,7 +11,7 @@ Integration with trackmatic where trackmatic creates the integration using a CSV
 -	Trackmatic-> Trackmatic Integration -> CSV Email-> Required Fields -> Trackmatic’ s System -> Testing and Training
 
 
-# <span style="color:grey"> Our graphical process used to integrate:</span>
+# <span style="color:grey"> Our graphical process used to integrate</span>
 Follow a path and make reference to each section, part and label to complete the integration process.
 
 ![Adding pic](../Images/integrationflow.png)
