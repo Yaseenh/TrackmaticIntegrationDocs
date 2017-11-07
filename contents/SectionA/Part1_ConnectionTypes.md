@@ -1,8 +1,15 @@
-<h1 style="text-align: center;">
-<span style="color:grey">Section A</span>
+<h1>
+<div style="text-align: center;">
+    <span style="color:grey">
+        Connection Types
+    </span>
+    <span style="float:right;color:grey">Section A</span>
+</div>
 </h1>
-
-# <span style="color:grey">Part 1</span>
+<h2>
+<span style="float:right;color:grey">Part 1</span>
+</h2>
+<br /> 
 
 ## <span style="color:grey">SQL</span>
 __Polling Listener__

@@ -16,6 +16,8 @@ Resource optimisation and service excellence are key outcomes of the solution, r
 
 ### [SECTION A: Part 1](contents/SectionA/Part1_ConnectionTypes.md)
 ### [SECTION A: Part 2](contents/SectionA/Part2_RequiredFields.md)
+### [SECTION A: Part 3](contents/SectionA/Part3_CreatingTheIntegrationAgent.md)
+### [SECTION A: Part 4](contents/SectionA/Part4_FinaliseAndTest.md)
 
 ### [SECTION B: Part 1](contents/SectionB/Part1_CreatingYourOwnAgent.md)
 
