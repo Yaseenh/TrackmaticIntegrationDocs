@@ -21,7 +21,8 @@ A simple scenario of the two cases:
 
 <h2 style="text-align:center"><span style="color:grey">Route Information</span></h2>
 
-__Table 1__ : Route – This is the header information for the sequence of stops for a vehicle within an                                                               allocated period.  
+
+__Table 1__ : Route – This is the header information for the sequence of stops for a vehicle within an allocated period.  
 __Table 2__ : Action – Type of stop to be made. (Delivery, Collection, IBT, etc).  
 __Table 3__ : Entity – This is essential the sell to.  
 __Table 4__ : Deco – This is essential the ship to.  
