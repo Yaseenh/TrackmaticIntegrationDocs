@@ -1,6 +1,6 @@
 - title: Home
   url: /
-  - title: How to use this guide
+- title: How to use this guide
   url: /contents/HowToUseThisGuide.md
 - title: REST Api
   url: /rest
