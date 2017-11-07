@@ -8,7 +8,7 @@
       url: /rest
     - id: howto
       title: How to
-      url: /contents/HowToUseThisGuide.md
+      url: /contents/SectionA/Part1_ConnectionTypes
     - id: organisations
       title: Organisations
       url: /rest/organisations
