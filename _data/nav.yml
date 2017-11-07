@@ -1,13 +1,14 @@
 - title: Home
   url: /
-- title: How to use this guide
-  url: /contents/HowToUseThisGuide.md
 - title: REST Api
   url: /rest
   items:
     - id: authentication
       title: Authentication
       url: /rest
+    - id: howto
+      title: How to
+      url: /contents/HowToUseThisGuide.md
     - id: organisations
       title: Organisations
       url: /rest/organisations
