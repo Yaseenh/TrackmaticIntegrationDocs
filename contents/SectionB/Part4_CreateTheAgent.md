@@ -48,7 +48,6 @@ The below diagram shows the flow to be taken of which models to use for each typ
 <div style="text-align:center"><img src ="../../Images/modelFlow.jpg" /></div>
 
 #### __Creating an Action__
-
 ```csharp
 private Action CreateAction ()
 {
@@ -91,7 +90,6 @@ private Action CreateAction ()
 
 
 #### __Creating an Entity__
-
 ```csharp
 private Entity CreateEntity ()
 {
@@ -133,7 +131,6 @@ private Entity CreateEntity ()
 ```
 
 #### __Creating a Multiple Address Entity__
-
 * Note if there are multiple addresses, replace the above "CreateEntity" method with "CreateShipTo" and "CreateSellTo" methods. Also update "CreateRelationship" method to the one below.
 ```csharp
 private Entity CreateShipTo()
@@ -186,7 +183,6 @@ private Entity CreateSellTo()
 ```
 
 #### __Creating a Location__
-
 ```csharp
 private OLocation CreateLocation ()
 {
