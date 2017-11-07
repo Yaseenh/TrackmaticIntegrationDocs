@@ -1,5 +1,5 @@
 <h1>
-<div style="text-align: center;">
+<div style="text-align: left;">
     <span style="color:grey">
         Creating The Integration Agent 
      </span>
