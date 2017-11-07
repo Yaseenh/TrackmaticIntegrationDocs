@@ -20,6 +20,8 @@ Resource optimisation and service excellence are key outcomes of the solution, r
 ### [SECTION A: Part 4](contents/SectionA/Part4_FinaliseAndTest.md)
 
 ### [SECTION B: Part 1](contents/SectionB/Part1_CreatingYourOwnAgent.md)
+### [SECTION B: Part 2](contents/SectionB/Part2_RequiredFields.md)
+### [SECTION B: Part 3](contents/SectionB/Part3_Authentication.md)
 
 
 ### [Fleet](rest/fleet)
