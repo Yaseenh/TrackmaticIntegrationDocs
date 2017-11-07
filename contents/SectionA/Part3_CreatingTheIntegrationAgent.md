@@ -1,7 +1,7 @@
 <h1>
-<div style="text-align: left;">
+<div style="text-align: center;">
     <span style="color:grey">
-        Creating The Integration Agent 
+        Create The Integration Agent 
      </span>
     <span style="float:right;color:grey"> Section A</span>
 </div>
