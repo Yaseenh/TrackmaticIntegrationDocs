@@ -1,1 +1,1 @@
-![title](../SectionA/Part2_RequiredFields.md)
+[title](../SectionA/Part2_RequiredFields.md)
