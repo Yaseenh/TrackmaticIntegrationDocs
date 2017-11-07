@@ -31,5 +31,15 @@
 			<br />
 		</div>
 		{% endfor %}
+  </div>
+  
+	<div class="nav-docs-section">
+		<h3><a href="#">Facebook</a></h3>
+		<div class="nav-post">
+			<b><a href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a></b>
+			<small>{{ post.excerpt }}</small>
+			<br />
+		</div>
+		{% endfor %}
 	</div>
 </div>
