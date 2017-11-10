@@ -9,7 +9,7 @@
       title: Required Fields
       url: /contents/SectionA/Part2_RequiredFields
     - id: sectionApart3
-      title: implementing the integration
+      title: Integrating
       url: /contents/SectionA/Part3_CreateTheIntegrationAgents
     - id: sectionApart4
       title: Testing And Finalising
@@ -17,7 +17,7 @@
 - title: Section B
   items:
     - id: sectionBpart1
-      title: Connection Types
+      title: DIY Integration
       url: /contents/SectionA/Part1_CreatingYourOwnAgent
     - id: sectionBpart2
       title: Required Fields
