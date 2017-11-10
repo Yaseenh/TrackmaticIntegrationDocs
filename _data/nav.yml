@@ -1,6 +1,6 @@
 - title: Home
   url: /
-- title: Section A
+- title: Section A Trackmatic Integration
   items:
     - id: sectionApart1
       title: Connection Types
@@ -14,7 +14,7 @@
     - id: sectionApart4
       title: Testing And Finalising
       url: /contents/SectionA/Part4_FinaliseAndTest
-- title: Section B
+- title: Section B - DIY
   items:
     - id: sectionBpart1
       title: DIY Integration
