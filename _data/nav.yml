@@ -1,32 +1,32 @@
 - title: Home
   url: /
 - title: Trackmatic Integration
-- title: Section A 
-  items:
-    - id: sectionApart1
-      title: Connection Types
-      url: /contents/SectionA/Part1_ConnectionTypes
-    - id: sectionApart2
-      title: Required Fields
-      url: /contents/SectionA/Part2_RequiredFields
-    - id: sectionApart3
-      title: Create Agent
-      url: /contents/SectionA/Part3_CreateTheIntegrationAgents
-    - id: sectionApart4
-      title: Testing And Finalising
-      url: /contents/SectionA/Part4_FinaliseAndTest
+  - title: Section A 
+    items:
+      - id: sectionApart1
+        title: Connection Types
+        url: /contents/SectionA/Part1_ConnectionTypes
+      - id: sectionApart2
+        title: Required Fields
+        url: /contents/SectionA/Part2_RequiredFields
+      - id: sectionApart3
+        title: Create Agent
+        url: /contents/SectionA/Part3_CreateTheIntegrationAgents
+      - id: sectionApart4
+        title: Testing And Finalising
+        url: /contents/SectionA/Part4_FinaliseAndTest
 - title: DIY Integration
-- title: Section B 
-  items:
-    - id: sectionBpart1
-      title: Briefing
-      url: /contents/SectionA/Part1_CreatingYourOwnAgent
-    - id: sectionBpart2
-      title: Required Fields
-      url: /contents/SectionA/Part2_RequiredFields
-    - id: sectionBpart3
-      title: Aunthetication
-      url: /contents/SectionA/Part3_Aunthetication
-    - id: sectionBpart4
-      title: Creating The Agent
-      url: /contents/SectionB/Part4_CreateTheAgent
+  - title: Section B 
+    items:
+      - id: sectionBpart1
+        title: Briefing
+        url: /contents/SectionA/Part1_CreatingYourOwnAgent
+      - id: sectionBpart2
+        title: Required Fields
+        url: /contents/SectionA/Part2_RequiredFields
+      - id: sectionBpart3
+        title: Aunthetication
+        url: /contents/SectionA/Part3_Aunthetication
+      - id: sectionBpart4
+        title: Creating The Agent
+        url: /contents/SectionB/Part4_CreateTheAgent
