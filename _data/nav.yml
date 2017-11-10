@@ -1,6 +1,6 @@
 - title: Home
   url: /
-- title: Section A Trackmatic Integration
+- title: Section A - Trackmatic Integration
   items:
     - id: sectionApart1
       title: Connection Types
@@ -9,7 +9,7 @@
       title: Required Fields
       url: /contents/SectionA/Part2_RequiredFields
     - id: sectionApart3
-      title: Integrating
+      title: Create Agent
       url: /contents/SectionA/Part3_CreateTheIntegrationAgents
     - id: sectionApart4
       title: Testing And Finalising
@@ -17,7 +17,7 @@
 - title: Section B - DIY
   items:
     - id: sectionBpart1
-      title: DIY Integration
+      title: Briefing
       url: /contents/SectionA/Part1_CreatingYourOwnAgent
     - id: sectionBpart2
       title: Required Fields
