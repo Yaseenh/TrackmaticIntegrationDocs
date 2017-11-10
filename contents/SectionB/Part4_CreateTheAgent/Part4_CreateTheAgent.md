@@ -131,7 +131,8 @@ private Entity CreateEntity ()
 ```
 
 #### __Creating a Multiple Address Entity__
-* Note if there are multiple addresses, replace the above "CreateEntity" method with "CreateShipTo" and "CreateSellTo" methods. Also update "CreateRelationship" method to the one below.
+* Note if there are multiple addresses, replace the above "CreateEntity" method with "CreateShipTo" and "CreateSellTo" methods. Also update "CreateRelationship" method to the one below. 
+
 ```csharp
 private Entity CreateShipTo()
 {

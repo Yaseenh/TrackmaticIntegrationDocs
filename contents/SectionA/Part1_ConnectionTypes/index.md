@@ -1,1 +1,0 @@
-{% include Part1_ConnectionTypes.md %}
