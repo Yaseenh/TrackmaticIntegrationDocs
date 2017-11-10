@@ -1,7 +1,6 @@
 - title: Home
   url: /
 - title: Section A
-  url: /
   items:
     - id: sectionApart1
       title: Connection Types
@@ -10,13 +9,12 @@
       title: Required Fields
       url: /contents/SectionA/Part2_RequiredFields
     - id: sectionApart3
-      title: Implementing the Integration Agent
+      title: implementing the integration
       url: /contents/SectionA/Part3_CreateTheIntegrationAgents
     - id: sectionApart4
       title: Testing And Finalising
       url: /contents/SectionA/Part4_FinaliseAndTest
 - title: Section B
-  url: /
   items:
     - id: sectionBpart1
       title: Connection Types
@@ -25,8 +23,8 @@
       title: Required Fields
       url: /contents/SectionA/Part2_RequiredFields
     - id: sectionBpart3
-      title: Implementing the Integration Agent
+      title: Aunthetication
       url: /contents/SectionA/Part3_Aunthetication
     - id: sectionBpart4
-      title: Testing And Finalising
+      title: Creating The Agent
       url: /contents/SectionB/Part4_CreateTheAgent
