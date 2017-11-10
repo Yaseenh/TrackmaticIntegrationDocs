@@ -1,7 +1,7 @@
 - title: Home
   url: /
 - title: Trackmatic Integration
-- !title: Section A 
+- title: Section A 
   items:
     - id: sectionApart1
       title: Connection Types
