@@ -1,7 +1,5 @@
 - title: Home
   url: /
-- title: Trackmatic Integration
-     subitems:
 - title: Section A 
   items:
     - id: sectionApart1
@@ -16,8 +14,6 @@
     - id: sectionApart4
       title: Testing And Finalising
       url: /contents/SectionA/Part4_FinaliseAndTest
-- title: DIY Integration
-   subitems:
 - title: Section B 
   items:
     - id: sectionBpart1
