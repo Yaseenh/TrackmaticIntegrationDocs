@@ -23,8 +23,8 @@
       title: Required Fields
       url: /contents/SectionA/Part2_RequiredFields
     - id: sectionBpart3
-      title: Aunthentication
-      url: /contents/SectionB/Part3_Aunthetication
+      title: Authentication
+      url: /contents/SectionB/Part3_Authentication
     - id: sectionBpart4
       title: Creating The Agent
       url: /contents/SectionB/Part4_CreateTheAgent
