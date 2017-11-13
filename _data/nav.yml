@@ -1,5 +1,7 @@
 - title: Home
   url: /
+- title: How To Use
+  url: /contents/HowToUseThisGuide
 - title: Section A 
   items:
     - id: sectionApart1

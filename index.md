@@ -25,4 +25,4 @@ We offer a holistic business solution to our clients, meeting their unique and c
 
 Resource optimisation and service excellence are key outcomes of the solution, resulting in higher profits and driving down costs. This is where the true value of the solution is gained.
 
-## [How To Use This Guide](contents/HowToUseThisGuide.md)
+## [How To Use This Guide](contents/HowToUseThisGuide/index.md)
